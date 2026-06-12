@@ -1,6 +1,6 @@
 # SRT Mirror
 
-<img src="icon.png" style="zoom:20%;" />
+<p align="center"><img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/></p>
 
 An Android TV app that receives SRT video streams via [SRTDroid](https://github.com/ThibaultBee/srtdroid) and plays them in real time using ExoPlayer. Point an SRT source (e.g. OBS) at your TV and it mirrors the stream full-screen.
 
